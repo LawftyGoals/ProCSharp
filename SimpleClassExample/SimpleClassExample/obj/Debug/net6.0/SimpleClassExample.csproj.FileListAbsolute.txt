@@ -1,0 +1,14 @@
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\SimpleClassExample\SimpleClassExample\bin\Debug\net6.0\SimpleClassExample.exe
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\SimpleClassExample\SimpleClassExample\bin\Debug\net6.0\SimpleClassExample.deps.json
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\SimpleClassExample\SimpleClassExample\bin\Debug\net6.0\SimpleClassExample.runtimeconfig.json
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\SimpleClassExample\SimpleClassExample\bin\Debug\net6.0\SimpleClassExample.dll
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\SimpleClassExample\SimpleClassExample\bin\Debug\net6.0\SimpleClassExample.pdb
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\SimpleClassExample\SimpleClassExample\obj\Debug\net6.0\SimpleClassExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\SimpleClassExample\SimpleClassExample\obj\Debug\net6.0\SimpleClassExample.AssemblyInfoInputs.cache
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\SimpleClassExample\SimpleClassExample\obj\Debug\net6.0\SimpleClassExample.AssemblyInfo.cs
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\SimpleClassExample\SimpleClassExample\obj\Debug\net6.0\SimpleClassExample.csproj.CoreCompileInputs.cache
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\SimpleClassExample\SimpleClassExample\obj\Debug\net6.0\SimpleClassExample.dll
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\SimpleClassExample\SimpleClassExample\obj\Debug\net6.0\refint\SimpleClassExample.dll
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\SimpleClassExample\SimpleClassExample\obj\Debug\net6.0\SimpleClassExample.pdb
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\SimpleClassExample\SimpleClassExample\obj\Debug\net6.0\SimpleClassExample.genruntimeconfig.cache
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\SimpleClassExample\SimpleClassExample\obj\Debug\net6.0\ref\SimpleClassExample.dll

@@ -1,0 +1,14 @@
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\SimpleCSharpApp\SimpleCSharpApp\bin\Debug\net6.0\SimpleCSharpApp.exe
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\SimpleCSharpApp\SimpleCSharpApp\bin\Debug\net6.0\SimpleCSharpApp.deps.json
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\SimpleCSharpApp\SimpleCSharpApp\bin\Debug\net6.0\SimpleCSharpApp.runtimeconfig.json
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\SimpleCSharpApp\SimpleCSharpApp\bin\Debug\net6.0\SimpleCSharpApp.dll
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\SimpleCSharpApp\SimpleCSharpApp\bin\Debug\net6.0\SimpleCSharpApp.pdb
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\net6.0\SimpleCSharpApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\net6.0\SimpleCSharpApp.AssemblyInfoInputs.cache
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\net6.0\SimpleCSharpApp.AssemblyInfo.cs
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\net6.0\SimpleCSharpApp.csproj.CoreCompileInputs.cache
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\net6.0\SimpleCSharpApp.dll
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\net6.0\refint\SimpleCSharpApp.dll
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\net6.0\SimpleCSharpApp.pdb
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\net6.0\SimpleCSharpApp.genruntimeconfig.cache
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\net6.0\ref\SimpleCSharpApp.dll

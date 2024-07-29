@@ -1,0 +1,14 @@
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\StaticDataAndMembers\StaticDataAndMembers\bin\Debug\net6.0\StaticDataAndMembers.exe
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\StaticDataAndMembers\StaticDataAndMembers\bin\Debug\net6.0\StaticDataAndMembers.deps.json
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\StaticDataAndMembers\StaticDataAndMembers\bin\Debug\net6.0\StaticDataAndMembers.runtimeconfig.json
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\StaticDataAndMembers\StaticDataAndMembers\bin\Debug\net6.0\StaticDataAndMembers.dll
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\StaticDataAndMembers\StaticDataAndMembers\bin\Debug\net6.0\StaticDataAndMembers.pdb
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\StaticDataAndMembers\StaticDataAndMembers\obj\Debug\net6.0\StaticDataAndMembers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\StaticDataAndMembers\StaticDataAndMembers\obj\Debug\net6.0\StaticDataAndMembers.AssemblyInfoInputs.cache
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\StaticDataAndMembers\StaticDataAndMembers\obj\Debug\net6.0\StaticDataAndMembers.AssemblyInfo.cs
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\StaticDataAndMembers\StaticDataAndMembers\obj\Debug\net6.0\StaticDataAndMembers.csproj.CoreCompileInputs.cache
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\StaticDataAndMembers\StaticDataAndMembers\obj\Debug\net6.0\StaticDataAndMembers.dll
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\StaticDataAndMembers\StaticDataAndMembers\obj\Debug\net6.0\refint\StaticDataAndMembers.dll
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\StaticDataAndMembers\StaticDataAndMembers\obj\Debug\net6.0\StaticDataAndMembers.pdb
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\StaticDataAndMembers\StaticDataAndMembers\obj\Debug\net6.0\StaticDataAndMembers.genruntimeconfig.cache
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\StaticDataAndMembers\StaticDataAndMembers\obj\Debug\net6.0\ref\StaticDataAndMembers.dll

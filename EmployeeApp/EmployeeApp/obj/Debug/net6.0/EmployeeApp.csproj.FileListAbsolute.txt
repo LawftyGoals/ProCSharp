@@ -1,0 +1,14 @@
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\EmployeeApp\EmployeeApp\bin\Debug\net6.0\EmployeeApp.exe
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\EmployeeApp\EmployeeApp\bin\Debug\net6.0\EmployeeApp.deps.json
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\EmployeeApp\EmployeeApp\bin\Debug\net6.0\EmployeeApp.runtimeconfig.json
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\EmployeeApp\EmployeeApp\bin\Debug\net6.0\EmployeeApp.dll
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\EmployeeApp\EmployeeApp\bin\Debug\net6.0\EmployeeApp.pdb
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\EmployeeApp\EmployeeApp\obj\Debug\net6.0\EmployeeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\EmployeeApp\EmployeeApp\obj\Debug\net6.0\EmployeeApp.AssemblyInfoInputs.cache
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\EmployeeApp\EmployeeApp\obj\Debug\net6.0\EmployeeApp.AssemblyInfo.cs
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\EmployeeApp\EmployeeApp\obj\Debug\net6.0\EmployeeApp.csproj.CoreCompileInputs.cache
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\EmployeeApp\EmployeeApp\obj\Debug\net6.0\EmployeeApp.dll
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\EmployeeApp\EmployeeApp\obj\Debug\net6.0\refint\EmployeeApp.dll
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\EmployeeApp\EmployeeApp\obj\Debug\net6.0\EmployeeApp.pdb
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\EmployeeApp\EmployeeApp\obj\Debug\net6.0\EmployeeApp.genruntimeconfig.cache
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\EmployeeApp\EmployeeApp\obj\Debug\net6.0\ref\EmployeeApp.dll

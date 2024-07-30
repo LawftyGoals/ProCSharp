@@ -1,0 +1,15 @@
+C:\Users\xg47\Documents\Utdanning\DTE2802\ObjectInitializers\ObjectInitializers\bin\Debug\net6.0\ObjectInitializers.exe
+C:\Users\xg47\Documents\Utdanning\DTE2802\ObjectInitializers\ObjectInitializers\bin\Debug\net6.0\ObjectInitializers.deps.json
+C:\Users\xg47\Documents\Utdanning\DTE2802\ObjectInitializers\ObjectInitializers\bin\Debug\net6.0\ObjectInitializers.runtimeconfig.json
+C:\Users\xg47\Documents\Utdanning\DTE2802\ObjectInitializers\ObjectInitializers\bin\Debug\net6.0\ObjectInitializers.dll
+C:\Users\xg47\Documents\Utdanning\DTE2802\ObjectInitializers\ObjectInitializers\bin\Debug\net6.0\ObjectInitializers.pdb
+C:\Users\xg47\Documents\Utdanning\DTE2802\ObjectInitializers\ObjectInitializers\obj\Debug\net6.0\ObjectInitializers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xg47\Documents\Utdanning\DTE2802\ObjectInitializers\ObjectInitializers\obj\Debug\net6.0\ObjectInitializers.AssemblyInfoInputs.cache
+C:\Users\xg47\Documents\Utdanning\DTE2802\ObjectInitializers\ObjectInitializers\obj\Debug\net6.0\ObjectInitializers.AssemblyInfo.cs
+C:\Users\xg47\Documents\Utdanning\DTE2802\ObjectInitializers\ObjectInitializers\obj\Debug\net6.0\ObjectInitializers.csproj.CoreCompileInputs.cache
+C:\Users\xg47\Documents\Utdanning\DTE2802\ObjectInitializers\ObjectInitializers\obj\Debug\net6.0\ObjectInitializers.sourcelink.json
+C:\Users\xg47\Documents\Utdanning\DTE2802\ObjectInitializers\ObjectInitializers\obj\Debug\net6.0\ObjectInitializers.dll
+C:\Users\xg47\Documents\Utdanning\DTE2802\ObjectInitializers\ObjectInitializers\obj\Debug\net6.0\refint\ObjectInitializers.dll
+C:\Users\xg47\Documents\Utdanning\DTE2802\ObjectInitializers\ObjectInitializers\obj\Debug\net6.0\ObjectInitializers.pdb
+C:\Users\xg47\Documents\Utdanning\DTE2802\ObjectInitializers\ObjectInitializers\obj\Debug\net6.0\ObjectInitializers.genruntimeconfig.cache
+C:\Users\xg47\Documents\Utdanning\DTE2802\ObjectInitializers\ObjectInitializers\obj\Debug\net6.0\ref\ObjectInitializers.dll

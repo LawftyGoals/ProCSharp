@@ -31,5 +31,12 @@ joe.Age++;
 joe.DisplayStats();
 
 
+Console.WriteLine("***** Fun with Encapsulation 220 *****\n");
+
+Employee swit = new("Mar", 45, 123, 1000, "111-11-1111", EmployeePayTypeEnum.Salaried);
+Console.WriteLine(swit.Pay);
+swit.GiveBonus(100);
+Console.WriteLine(swit.Pay);
+
 Console.ReadLine();
 

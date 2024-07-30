@@ -13,11 +13,11 @@ Console.WriteLine("***** Fun with Static Data *****\n");
 SavingsAccount s4 = new(50);
 SavingsAccount s5 = new(100);
 
-Console.WriteLine("Interest Rate is: {0}", SavingsAccount.GetInterestRate());
+Console.WriteLine("Interest Rate is: {0}", SavingsAccount.InterestRate);
 
-SavingsAccount.SetInterestRate(0.06d);
+SavingsAccount.InterestRate=0.06d;
 SavingsAccount s6 = new(10000.75);
-Console.WriteLine("Interest Rate is: {0}", SavingsAccount.GetInterestRate());
+Console.WriteLine("Interest Rate is: {0}", SavingsAccount.InterestRate);
 
 PrintDate();
 PrintTime();

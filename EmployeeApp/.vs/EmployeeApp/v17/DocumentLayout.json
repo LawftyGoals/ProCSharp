@@ -1,16 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\EmployeeApp\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{3F9553A9-F6D6-44C1-8BE9-2044C3A957D4}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\csharp10provisualstudio\\employeeapp\\employeeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F9553A9-F6D6-44C1-8BE9-2044C3A957D4}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F9553A9-F6D6-44C1-8BE9-2044C3A957D4}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\csharp10provisualstudio\\employeeapp\\employeeapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F9553A9-F6D6-44C1-8BE9-2044C3A957D4}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\EmployeeApp\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,33 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\EmployeeApp\\EmployeeApp\\Employee.cs",
-              "RelativeDocumentMoniker": "EmployeeApp\\Employee.cs",
-              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\EmployeeApp\\EmployeeApp\\Employee.cs",
-              "RelativeToolTip": "EmployeeApp\\Employee.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAmwDsAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T21:04:44.933Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\EmployeeApp\\EmployeeApp\\Program.cs",
-              "RelativeDocumentMoniker": "EmployeeApp\\Program.cs",
-              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\EmployeeApp\\EmployeeApp\\Program.cs",
-              "RelativeToolTip": "EmployeeApp\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T21:04:17.844Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }

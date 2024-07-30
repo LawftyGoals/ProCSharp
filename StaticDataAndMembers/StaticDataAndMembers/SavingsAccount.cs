@@ -7,11 +7,18 @@ using System;
 namespace StaticDataAndMembers;
 class SavingsAccount {
 
-    public static double currInterestRate;
+    private static double _currInterestRate;
+
+    public static double InterestRate
+    {
+        get => _currInterestRate;
+        set => _currInterestRate = value;
+    }
+
 
     public double currBalance;
     public SavingsAccount(double balance) {
-        currInterestRate = 0.04d;
+        InterestRate = 0.04d;
         currBalance = balance;
     }
 
@@ -20,12 +27,12 @@ class SavingsAccount {
         //static data when the value is not known at compile time(e.g., you need to read in the value from an external
         //file, read in the value from a database, generate a random number, or whatnot).
         Console.WriteLine("static ctor");
-        currInterestRate = 0.04d;
+        InterestRate = 0.04d;
     }
 
-    public static void SetInterestRate(double newRate) => currInterestRate = newRate;
+    public static void SetInterestRate(double newRate) => InterestRate = newRate;
 
-    public static double GetInterestRate() => currInterestRate;
+    public static double GetInterestRate() => InterestRate;
 
 }
 

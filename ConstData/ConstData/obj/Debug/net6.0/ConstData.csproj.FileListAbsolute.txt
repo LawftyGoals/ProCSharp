@@ -1,0 +1,15 @@
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\ConstData\ConstData\bin\Debug\net6.0\ConstData.exe
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\ConstData\ConstData\bin\Debug\net6.0\ConstData.deps.json
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\ConstData\ConstData\bin\Debug\net6.0\ConstData.runtimeconfig.json
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\ConstData\ConstData\bin\Debug\net6.0\ConstData.dll
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\ConstData\ConstData\bin\Debug\net6.0\ConstData.pdb
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\ConstData\ConstData\obj\Debug\net6.0\ConstData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\ConstData\ConstData\obj\Debug\net6.0\ConstData.AssemblyInfoInputs.cache
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\ConstData\ConstData\obj\Debug\net6.0\ConstData.AssemblyInfo.cs
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\ConstData\ConstData\obj\Debug\net6.0\ConstData.csproj.CoreCompileInputs.cache
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\ConstData\ConstData\obj\Debug\net6.0\ConstData.sourcelink.json
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\ConstData\ConstData\obj\Debug\net6.0\ConstData.dll
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\ConstData\ConstData\obj\Debug\net6.0\refint\ConstData.dll
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\ConstData\ConstData\obj\Debug\net6.0\ConstData.pdb
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\ConstData\ConstData\obj\Debug\net6.0\ConstData.genruntimeconfig.cache
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\ConstData\ConstData\obj\Debug\net6.0\ref\ConstData.dll

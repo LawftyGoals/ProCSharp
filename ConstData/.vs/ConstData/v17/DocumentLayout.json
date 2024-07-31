@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\ConstData\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4D1BBC-317C-4C26-A5CC-9AA264EF9DB4}|ConstData\\ConstData.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\csharp10provisualstudio\\constdata\\constdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4D1BBC-317C-4C26-A5CC-9AA264EF9DB4}|ConstData\\ConstData.csproj|solutionrelative:constdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4D1BBC-317C-4C26-A5CC-9AA264EF9DB4}|ConstData\\ConstData.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\csharp10provisualstudio\\constdata\\constdata\\mymathclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4D1BBC-317C-4C26-A5CC-9AA264EF9DB4}|ConstData\\ConstData.csproj|solutionrelative:constdata\\mymathclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyMathClass.cs",
+              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\ConstData\\ConstData\\MyMathClass.cs",
+              "RelativeDocumentMoniker": "ConstData\\MyMathClass.cs",
+              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\ConstData\\ConstData\\MyMathClass.cs",
+              "RelativeToolTip": "ConstData\\MyMathClass.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T22:09:38.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\ConstData\\ConstData\\Program.cs",
+              "RelativeDocumentMoniker": "ConstData\\Program.cs",
+              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\ConstData\\ConstData\\Program.cs",
+              "RelativeToolTip": "ConstData\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T22:09:10.193Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

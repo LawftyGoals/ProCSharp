@@ -27,3 +27,4 @@ C:\Users\xg47\Documents\Utdanning\DTE2802\EmployeeApp\EmployeeApp\obj\Debug\net6
 C:\Users\xg47\Documents\Utdanning\DTE2802\EmployeeApp\EmployeeApp\obj\Debug\net6.0\EmployeeApp.pdb
 C:\Users\xg47\Documents\Utdanning\DTE2802\EmployeeApp\EmployeeApp\obj\Debug\net6.0\EmployeeApp.genruntimeconfig.cache
 C:\Users\xg47\Documents\Utdanning\DTE2802\EmployeeApp\EmployeeApp\obj\Debug\net6.0\ref\EmployeeApp.dll
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\EmployeeApp\EmployeeApp\obj\Debug\net6.0\EmployeeApp.sourcelink.json

@@ -1,0 +1,15 @@
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\FunWithPartials\FunWithPartials\bin\Debug\net6.0\FunWithPartials.exe
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\FunWithPartials\FunWithPartials\bin\Debug\net6.0\FunWithPartials.deps.json
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\FunWithPartials\FunWithPartials\bin\Debug\net6.0\FunWithPartials.runtimeconfig.json
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\FunWithPartials\FunWithPartials\bin\Debug\net6.0\FunWithPartials.dll
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\FunWithPartials\FunWithPartials\bin\Debug\net6.0\FunWithPartials.pdb
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\FunWithPartials\FunWithPartials\obj\Debug\net6.0\FunWithPartials.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\FunWithPartials\FunWithPartials\obj\Debug\net6.0\FunWithPartials.AssemblyInfoInputs.cache
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\FunWithPartials\FunWithPartials\obj\Debug\net6.0\FunWithPartials.AssemblyInfo.cs
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\FunWithPartials\FunWithPartials\obj\Debug\net6.0\FunWithPartials.csproj.CoreCompileInputs.cache
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\FunWithPartials\FunWithPartials\obj\Debug\net6.0\FunWithPartials.sourcelink.json
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\FunWithPartials\FunWithPartials\obj\Debug\net6.0\FunWithPartials.dll
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\FunWithPartials\FunWithPartials\obj\Debug\net6.0\refint\FunWithPartials.dll
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\FunWithPartials\FunWithPartials\obj\Debug\net6.0\FunWithPartials.pdb
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\FunWithPartials\FunWithPartials\obj\Debug\net6.0\FunWithPartials.genruntimeconfig.cache
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\FunWithPartials\FunWithPartials\obj\Debug\net6.0\ref\FunWithPartials.dll

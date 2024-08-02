@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FunWithRecords")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ef094e4873d54cbf28a9f759154c1105d723806")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74b6fca97ca7d860a05e0a2de4dc9b83019f1bf0")]
 [assembly: System.Reflection.AssemblyProductAttribute("FunWithRecords")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FunWithRecords")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

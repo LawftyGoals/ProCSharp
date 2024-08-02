@@ -1,10 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\FunWithRecords\\",
+  "WorkspaceRootPath": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProCSharp\\FunWithRecords\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9F198646-0D53-49B5-8F9E-C0CCCAB82E4A}|FunWithRecords\\FunWithRecords.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\csharp10provisualstudio\\funwithrecords\\funwithrecords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F198646-0D53-49B5-8F9E-C0CCCAB82E4A}|FunWithRecords\\FunWithRecords.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\procsharp\\funwithrecords\\funwithrecords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F198646-0D53-49B5-8F9E-C0CCCAB82E4A}|FunWithRecords\\FunWithRecords.csproj|solutionrelative:funwithrecords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F198646-0D53-49B5-8F9E-C0CCCAB82E4A}|FunWithRecords\\FunWithRecords.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\procsharp\\funwithrecords\\funwithrecords\\carshortrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F198646-0D53-49B5-8F9E-C0CCCAB82E4A}|FunWithRecords\\FunWithRecords.csproj|solutionrelative:funwithrecords\\carshortrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F198646-0D53-49B5-8F9E-C0CCCAB82E4A}|FunWithRecords\\FunWithRecords.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\procsharp\\funwithrecords\\funwithrecords\\carmutablerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F198646-0D53-49B5-8F9E-C0CCCAB82E4A}|FunWithRecords\\FunWithRecords.csproj|solutionrelative:funwithrecords\\carmutablerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F198646-0D53-49B5-8F9E-C0CCCAB82E4A}|FunWithRecords\\FunWithRecords.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\procsharp\\funwithrecords\\funwithrecords\\carrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F198646-0D53-49B5-8F9E-C0CCCAB82E4A}|FunWithRecords\\FunWithRecords.csproj|solutionrelative:funwithrecords\\carrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F198646-0D53-49B5-8F9E-C0CCCAB82E4A}|FunWithRecords\\FunWithRecords.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\procsharp\\funwithrecords\\funwithrecords\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F198646-0D53-49B5-8F9E-C0CCCAB82E4A}|FunWithRecords\\FunWithRecords.csproj|solutionrelative:funwithrecords\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +30,65 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarMutableRecord.cs",
+              "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProCSharp\\FunWithRecords\\FunWithRecords\\CarMutableRecord.cs",
+              "RelativeDocumentMoniker": "FunWithRecords\\CarMutableRecord.cs",
+              "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProCSharp\\FunWithRecords\\FunWithRecords\\CarMutableRecord.cs",
+              "RelativeToolTip": "FunWithRecords\\CarMutableRecord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:29:07.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarShortRecord.cs",
+              "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProCSharp\\FunWithRecords\\FunWithRecords\\CarShortRecord.cs",
+              "RelativeDocumentMoniker": "FunWithRecords\\CarShortRecord.cs",
+              "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProCSharp\\FunWithRecords\\FunWithRecords\\CarShortRecord.cs",
+              "RelativeToolTip": "FunWithRecords\\CarShortRecord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:07:45.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarRecord.cs",
+              "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProCSharp\\FunWithRecords\\FunWithRecords\\CarRecord.cs",
+              "RelativeDocumentMoniker": "FunWithRecords\\CarRecord.cs",
+              "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProCSharp\\FunWithRecords\\FunWithRecords\\CarRecord.cs",
+              "RelativeToolTip": "FunWithRecords\\CarRecord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T06:51:24.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProCSharp\\FunWithRecords\\FunWithRecords\\Car.cs",
+              "RelativeDocumentMoniker": "FunWithRecords\\Car.cs",
+              "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProCSharp\\FunWithRecords\\FunWithRecords\\Car.cs",
+              "RelativeToolTip": "FunWithRecords\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T06:39:39.089Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\FunWithRecords\\FunWithRecords\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProCSharp\\FunWithRecords\\FunWithRecords\\Program.cs",
               "RelativeDocumentMoniker": "FunWithRecords\\Program.cs",
-              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\FunWithRecords\\FunWithRecords\\Program.cs",
+              "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProCSharp\\FunWithRecords\\FunWithRecords\\Program.cs",
               "RelativeToolTip": "FunWithRecords\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAUwGEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-31T21:37:29.156Z",
               "EditorCaption": ""

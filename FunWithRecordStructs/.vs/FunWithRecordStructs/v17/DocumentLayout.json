@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProCSharp\\FunWithRecordStructs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98B14A83-FA58-4CC5-893B-3E79147886E0}|FunWithRecordStructs\\FunWithRecordStructs.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\procsharp\\funwithrecordstructs\\funwithrecordstructs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98B14A83-FA58-4CC5-893B-3E79147886E0}|FunWithRecordStructs\\FunWithRecordStructs.csproj|solutionrelative:funwithrecordstructs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B14A83-FA58-4CC5-893B-3E79147886E0}|FunWithRecordStructs\\FunWithRecordStructs.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\procsharp\\funwithrecordstructs\\funwithrecordstructs\\pointrecordimmutablepositionstruct .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98B14A83-FA58-4CC5-893B-3E79147886E0}|FunWithRecordStructs\\FunWithRecordStructs.csproj|solutionrelative:funwithrecordstructs\\pointrecordimmutablepositionstruct .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B14A83-FA58-4CC5-893B-3E79147886E0}|FunWithRecordStructs\\FunWithRecordStructs.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\procsharp\\funwithrecordstructs\\funwithrecordstructs\\pointrecordstruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98B14A83-FA58-4CC5-893B-3E79147886E0}|FunWithRecordStructs\\FunWithRecordStructs.csproj|solutionrelative:funwithrecordstructs\\pointrecordstruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B14A83-FA58-4CC5-893B-3E79147886E0}|FunWithRecordStructs\\FunWithRecordStructs.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\procsharp\\funwithrecordstructs\\funwithrecordstructs\\pointrecordstandardstruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98B14A83-FA58-4CC5-893B-3E79147886E0}|FunWithRecordStructs\\FunWithRecordStructs.csproj|solutionrelative:funwithrecordstructs\\pointrecordstandardstruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B14A83-FA58-4CC5-893B-3E79147886E0}|FunWithRecordStructs\\FunWithRecordStructs.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\procsharp\\funwithrecordstructs\\funwithrecordstructs\\pointrecordimutablestandardstruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98B14A83-FA58-4CC5-893B-3E79147886E0}|FunWithRecordStructs\\FunWithRecordStructs.csproj|solutionrelative:funwithrecordstructs\\pointrecordimutablestandardstruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PointRecordImmutablePositionStruct .cs",
+              "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProCSharp\\FunWithRecordStructs\\FunWithRecordStructs\\PointRecordImmutablePositionStruct .cs",
+              "RelativeDocumentMoniker": "FunWithRecordStructs\\PointRecordImmutablePositionStruct .cs",
+              "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProCSharp\\FunWithRecordStructs\\FunWithRecordStructs\\PointRecordImmutablePositionStruct .cs",
+              "RelativeToolTip": "FunWithRecordStructs\\PointRecordImmutablePositionStruct .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T22:30:16.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PointRecordImutableStandardStruct.cs",
+              "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProCSharp\\FunWithRecordStructs\\FunWithRecordStructs\\PointRecordImutableStandardStruct.cs",
+              "RelativeDocumentMoniker": "FunWithRecordStructs\\PointRecordImutableStandardStruct.cs",
+              "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProCSharp\\FunWithRecordStructs\\FunWithRecordStructs\\PointRecordImutableStandardStruct.cs",
+              "RelativeToolTip": "FunWithRecordStructs\\PointRecordImutableStandardStruct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T22:24:24.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PointRecordStandardStruct.cs",
+              "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProCSharp\\FunWithRecordStructs\\FunWithRecordStructs\\PointRecordStandardStruct.cs",
+              "RelativeDocumentMoniker": "FunWithRecordStructs\\PointRecordStandardStruct.cs",
+              "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProCSharp\\FunWithRecordStructs\\FunWithRecordStructs\\PointRecordStandardStruct.cs",
+              "RelativeToolTip": "FunWithRecordStructs\\PointRecordStandardStruct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T22:19:43.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PointRecordStruct.cs",
+              "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProCSharp\\FunWithRecordStructs\\FunWithRecordStructs\\PointRecordStruct.cs",
+              "RelativeDocumentMoniker": "FunWithRecordStructs\\PointRecordStruct.cs",
+              "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProCSharp\\FunWithRecordStructs\\FunWithRecordStructs\\PointRecordStruct.cs",
+              "RelativeToolTip": "FunWithRecordStructs\\PointRecordStruct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T22:18:21.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProCSharp\\FunWithRecordStructs\\FunWithRecordStructs\\Program.cs",
+              "RelativeDocumentMoniker": "FunWithRecordStructs\\Program.cs",
+              "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProCSharp\\FunWithRecordStructs\\FunWithRecordStructs\\Program.cs",
+              "RelativeToolTip": "FunWithRecordStructs\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T22:16:07.543Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

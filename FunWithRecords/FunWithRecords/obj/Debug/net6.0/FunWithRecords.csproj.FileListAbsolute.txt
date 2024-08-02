@@ -1,0 +1,15 @@
+C:\Users\xg47\Documents\Utdanning\DTE2802\ProCSharp\FunWithRecords\FunWithRecords\bin\Debug\net6.0\FunWithRecords.exe
+C:\Users\xg47\Documents\Utdanning\DTE2802\ProCSharp\FunWithRecords\FunWithRecords\bin\Debug\net6.0\FunWithRecords.deps.json
+C:\Users\xg47\Documents\Utdanning\DTE2802\ProCSharp\FunWithRecords\FunWithRecords\bin\Debug\net6.0\FunWithRecords.runtimeconfig.json
+C:\Users\xg47\Documents\Utdanning\DTE2802\ProCSharp\FunWithRecords\FunWithRecords\bin\Debug\net6.0\FunWithRecords.dll
+C:\Users\xg47\Documents\Utdanning\DTE2802\ProCSharp\FunWithRecords\FunWithRecords\bin\Debug\net6.0\FunWithRecords.pdb
+C:\Users\xg47\Documents\Utdanning\DTE2802\ProCSharp\FunWithRecords\FunWithRecords\obj\Debug\net6.0\FunWithRecords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xg47\Documents\Utdanning\DTE2802\ProCSharp\FunWithRecords\FunWithRecords\obj\Debug\net6.0\FunWithRecords.AssemblyInfoInputs.cache
+C:\Users\xg47\Documents\Utdanning\DTE2802\ProCSharp\FunWithRecords\FunWithRecords\obj\Debug\net6.0\FunWithRecords.AssemblyInfo.cs
+C:\Users\xg47\Documents\Utdanning\DTE2802\ProCSharp\FunWithRecords\FunWithRecords\obj\Debug\net6.0\FunWithRecords.csproj.CoreCompileInputs.cache
+C:\Users\xg47\Documents\Utdanning\DTE2802\ProCSharp\FunWithRecords\FunWithRecords\obj\Debug\net6.0\FunWithRecords.sourcelink.json
+C:\Users\xg47\Documents\Utdanning\DTE2802\ProCSharp\FunWithRecords\FunWithRecords\obj\Debug\net6.0\FunWithRecords.dll
+C:\Users\xg47\Documents\Utdanning\DTE2802\ProCSharp\FunWithRecords\FunWithRecords\obj\Debug\net6.0\refint\FunWithRecords.dll
+C:\Users\xg47\Documents\Utdanning\DTE2802\ProCSharp\FunWithRecords\FunWithRecords\obj\Debug\net6.0\FunWithRecords.pdb
+C:\Users\xg47\Documents\Utdanning\DTE2802\ProCSharp\FunWithRecords\FunWithRecords\obj\Debug\net6.0\FunWithRecords.genruntimeconfig.cache
+C:\Users\xg47\Documents\Utdanning\DTE2802\ProCSharp\FunWithRecords\FunWithRecords\obj\Debug\net6.0\ref\FunWithRecords.dll

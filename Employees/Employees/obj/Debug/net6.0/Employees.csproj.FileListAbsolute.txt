@@ -1,0 +1,15 @@
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\Employees\Employees\bin\Debug\net6.0\Employees.exe
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\Employees\Employees\bin\Debug\net6.0\Employees.deps.json
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\Employees\Employees\bin\Debug\net6.0\Employees.runtimeconfig.json
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\Employees\Employees\bin\Debug\net6.0\Employees.dll
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\Employees\Employees\bin\Debug\net6.0\Employees.pdb
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\Employees\Employees\obj\Debug\net6.0\Employees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\Employees\Employees\obj\Debug\net6.0\Employees.AssemblyInfoInputs.cache
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\Employees\Employees\obj\Debug\net6.0\Employees.AssemblyInfo.cs
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\Employees\Employees\obj\Debug\net6.0\Employees.csproj.CoreCompileInputs.cache
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\Employees\Employees\obj\Debug\net6.0\Employees.sourcelink.json
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\Employees\Employees\obj\Debug\net6.0\Employees.dll
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\Employees\Employees\obj\Debug\net6.0\refint\Employees.dll
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\Employees\Employees\obj\Debug\net6.0\Employees.pdb
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\Employees\Employees\obj\Debug\net6.0\Employees.genruntimeconfig.cache
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\Employees\Employees\obj\Debug\net6.0\ref\Employees.dll

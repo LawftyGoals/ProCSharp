@@ -1,0 +1,15 @@
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\BasicInheritance\BasicInheritance\bin\Debug\net6.0\BasicInheritance.exe
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\BasicInheritance\BasicInheritance\bin\Debug\net6.0\BasicInheritance.deps.json
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\BasicInheritance\BasicInheritance\bin\Debug\net6.0\BasicInheritance.runtimeconfig.json
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\BasicInheritance\BasicInheritance\bin\Debug\net6.0\BasicInheritance.dll
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\BasicInheritance\BasicInheritance\bin\Debug\net6.0\BasicInheritance.pdb
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\BasicInheritance\BasicInheritance\obj\Debug\net6.0\BasicInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\BasicInheritance\BasicInheritance\obj\Debug\net6.0\BasicInheritance.AssemblyInfoInputs.cache
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\BasicInheritance\BasicInheritance\obj\Debug\net6.0\BasicInheritance.AssemblyInfo.cs
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\BasicInheritance\BasicInheritance\obj\Debug\net6.0\BasicInheritance.csproj.CoreCompileInputs.cache
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\BasicInheritance\BasicInheritance\obj\Debug\net6.0\BasicInheritance.sourcelink.json
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\BasicInheritance\BasicInheritance\obj\Debug\net6.0\BasicInheritance.dll
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\BasicInheritance\BasicInheritance\obj\Debug\net6.0\refint\BasicInheritance.dll
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\BasicInheritance\BasicInheritance\obj\Debug\net6.0\BasicInheritance.pdb
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\BasicInheritance\BasicInheritance\obj\Debug\net6.0\BasicInheritance.genruntimeconfig.cache
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\BasicInheritance\BasicInheritance\obj\Debug\net6.0\ref\BasicInheritance.dll

@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\Employees\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{70FC39CD-392A-4B2D-858D-BBFFB8ED1FC6}|Employees\\Employees.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\csharp10provisualstudio\\employees\\employees\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70FC39CD-392A-4B2D-858D-BBFFB8ED1FC6}|Employees\\Employees.csproj|solutionrelative:employees\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70FC39CD-392A-4B2D-858D-BBFFB8ED1FC6}|Employees\\Employees.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\csharp10provisualstudio\\employees\\employees\\ptsalesperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70FC39CD-392A-4B2D-858D-BBFFB8ED1FC6}|Employees\\Employees.csproj|solutionrelative:employees\\ptsalesperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{70FC39CD-392A-4B2D-858D-BBFFB8ED1FC6}|Employees\\Employees.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\csharp10provisualstudio\\employees\\employees\\salesperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70FC39CD-392A-4B2D-858D-BBFFB8ED1FC6}|Employees\\Employees.csproj|solutionrelative:employees\\salesperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70FC39CD-392A-4B2D-858D-BBFFB8ED1FC6}|Employees\\Employees.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\csharp10provisualstudio\\employees\\employees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70FC39CD-392A-4B2D-858D-BBFFB8ED1FC6}|Employees\\Employees.csproj|solutionrelative:employees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70FC39CD-392A-4B2D-858D-BBFFB8ED1FC6}|Employees\\Employees.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\csharp10provisualstudio\\employees\\employees\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70FC39CD-392A-4B2D-858D-BBFFB8ED1FC6}|Employees\\Employees.csproj|solutionrelative:employees\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{70FC39CD-392A-4B2D-858D-BBFFB8ED1FC6}|Employees\\Employees.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\csharp10provisualstudio\\employees\\employees\\employee.core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{70FC39CD-392A-4B2D-858D-BBFFB8ED1FC6}|Employees\\Employees.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\csharp10provisualstudio\\employees\\employees\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70FC39CD-392A-4B2D-858D-BBFFB8ED1FC6}|Employees\\Employees.csproj|solutionrelative:employees\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70FC39CD-392A-4B2D-858D-BBFFB8ED1FC6}|Employees\\Employees.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\csharp10provisualstudio\\employees\\employees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70FC39CD-392A-4B2D-858D-BBFFB8ED1FC6}|Employees\\Employees.csproj|solutionrelative:employees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{70FC39CD-392A-4B2D-858D-BBFFB8ED1FC6}|Employees\\Employees.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\csharp10provisualstudio\\employees\\employees\\employeepaytypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,8 +38,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PtSalesPerson.cs",
+              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\Employees\\Employees\\PtSalesPerson.cs",
+              "RelativeDocumentMoniker": "Employees\\PtSalesPerson.cs",
+              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\Employees\\Employees\\PtSalesPerson.cs",
+              "RelativeToolTip": "Employees\\PtSalesPerson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T22:37:18.934Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -51,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Manager.cs",
               "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\Employees\\Employees\\Manager.cs",
               "RelativeDocumentMoniker": "Employees\\Manager.cs",
@@ -64,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "EmployeePayTypeEnum.cs",
               "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\Employees\\Employees\\EmployeePayTypeEnum.cs",
               "RelativeDocumentMoniker": "Employees\\EmployeePayTypeEnum.cs",
@@ -72,12 +89,11 @@
               "RelativeToolTip": "Employees\\EmployeePayTypeEnum.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T22:15:05.216Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T22:15:05.216Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\Employees\\Employees\\Employee.cs",
               "RelativeDocumentMoniker": "Employees\\Employee.cs",
@@ -85,12 +101,11 @@
               "RelativeToolTip": "Employees\\Employee.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAgwAMAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T22:15:01.5Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T22:15:01.5Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Employee.Core.cs",
               "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\Employees\\Employees\\Employee.Core.cs",
               "RelativeDocumentMoniker": "Employees\\Employee.Core.cs",
@@ -98,12 +113,11 @@
               "RelativeToolTip": "Employees\\Employee.Core.cs",
               "ViewState": "AQIAADAAAAAAAAAAAAAmwBsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T22:14:53.757Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T22:14:53.757Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\Employees\\Employees\\Program.cs",
               "RelativeDocumentMoniker": "Employees\\Program.cs",

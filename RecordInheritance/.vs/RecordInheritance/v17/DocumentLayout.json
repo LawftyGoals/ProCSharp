@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\RecordInheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC06D9E-9CD7-4756-B4C0-FDBDF0EC9365}|RecordInheritance\\RecordInheritance.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\csharp10provisualstudio\\recordinheritance\\recordinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC06D9E-9CD7-4756-B4C0-FDBDF0EC9365}|RecordInheritance\\RecordInheritance.csproj|solutionrelative:recordinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC06D9E-9CD7-4756-B4C0-FDBDF0EC9365}|RecordInheritance\\RecordInheritance.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\csharp10provisualstudio\\recordinheritance\\recordinheritance\\positionalrecordtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC06D9E-9CD7-4756-B4C0-FDBDF0EC9365}|RecordInheritance\\RecordInheritance.csproj|solutionrelative:recordinheritance\\positionalrecordtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC06D9E-9CD7-4756-B4C0-FDBDF0EC9365}|RecordInheritance\\RecordInheritance.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\csharp10provisualstudio\\recordinheritance\\recordinheritance\\minivan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC06D9E-9CD7-4756-B4C0-FDBDF0EC9365}|RecordInheritance\\RecordInheritance.csproj|solutionrelative:recordinheritance\\minivan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC06D9E-9CD7-4756-B4C0-FDBDF0EC9365}|RecordInheritance\\RecordInheritance.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\csharp10provisualstudio\\recordinheritance\\recordinheritance\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC06D9E-9CD7-4756-B4C0-FDBDF0EC9365}|RecordInheritance\\RecordInheritance.csproj|solutionrelative:recordinheritance\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PositionalRecordTypes.cs",
+              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\RecordInheritance\\RecordInheritance\\PositionalRecordTypes.cs",
+              "RelativeDocumentMoniker": "RecordInheritance\\PositionalRecordTypes.cs",
+              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\RecordInheritance\\RecordInheritance\\PositionalRecordTypes.cs",
+              "RelativeToolTip": "RecordInheritance\\PositionalRecordTypes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T23:01:59.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MiniVAn.cs",
+              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\RecordInheritance\\RecordInheritance\\MiniVAn.cs",
+              "RelativeDocumentMoniker": "RecordInheritance\\MiniVAn.cs",
+              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\RecordInheritance\\RecordInheritance\\MiniVAn.cs",
+              "RelativeToolTip": "RecordInheritance\\MiniVAn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T22:47:25.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\RecordInheritance\\RecordInheritance\\Car.cs",
+              "RelativeDocumentMoniker": "RecordInheritance\\Car.cs",
+              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\RecordInheritance\\RecordInheritance\\Car.cs",
+              "RelativeToolTip": "RecordInheritance\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T22:41:14.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\RecordInheritance\\RecordInheritance\\Program.cs",
+              "RelativeDocumentMoniker": "RecordInheritance\\Program.cs",
+              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\RecordInheritance\\RecordInheritance\\Program.cs",
+              "RelativeToolTip": "RecordInheritance\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T22:40:50.817Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

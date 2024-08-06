@@ -3,14 +3,23 @@
 namespace Employees;
 internal partial class Employee {
 
-    public void GiveBonus(float amount) {
+    protected BenefitPackage EmpBenefits = new BenefitPackage();
+    public double GetBenefitCost() => EmpBenefits.ComputePayDeduction();
+
+    public BenefitPackage Benefits
+    {
+        get => EmpBenefits;
+        set => EmpBenefits = value;
+    }
+
+    public virtual void GiveBonus(float amount) {
         Pay = this switch
         {
-            { Age: >= 18, PayType: EmployeePayTypeEnum.Commision, HireDate.Year: > 2020  }
+            { Age: >= 18, PayType: EmployeePayTypeEnum.Commision  }
                 => Pay += .10F * amount,
-            { Age: >= 18, PayType: EmployeePayTypeEnum.Hourly, HireDate.Year: > 2020 }
+            { Age: >= 18, PayType: EmployeePayTypeEnum.Hourly }
                 => Pay += 40F * amount / 2080F,
-            { Age: >= 18, PayType: EmployeePayTypeEnum.Salaried, HireDate.Year: > 2020 }
+            { Age: >= 18, PayType: EmployeePayTypeEnum.Salaried }
                 => Pay += amount,
             _ => Pay += 0
         };

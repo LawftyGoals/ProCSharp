@@ -13,7 +13,7 @@ internal partial class Employee {
     }
 
     public virtual void GiveBonus(float amount) {
-        Pay = this switch
+        /*Pay = this switch
         {
             { Age: >= 18, PayType: EmployeePayTypeEnum.Commision  }
                 => Pay += .10F * amount,
@@ -22,13 +22,15 @@ internal partial class Employee {
             { Age: >= 18, PayType: EmployeePayTypeEnum.Salaried }
                 => Pay += amount,
             _ => Pay += 0
-        };
+        };*/
+        Pay += amount;
     }
-    public void DisplayStats() {
+    public virtual void DisplayStats() {
         Console.WriteLine($"Name: {Name}");
         Console.WriteLine($"Age: {Age}");
         Console.WriteLine($"ID: {Id}");
         Console.WriteLine($"Pay: {Pay}");
+        Console.WriteLine($"SSN: {SocialSecurityNumber}");
     }
 
     public string GetName() => _empName;

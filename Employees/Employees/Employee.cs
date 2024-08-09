@@ -1,7 +1,9 @@
 ﻿
 
 namespace Employees;
-internal partial class Employee {
+
+//Abstract V classes can not be created themselves, they must be made through a related class.
+internal abstract partial class Employee {
 
     protected BenefitPackage EmpBenefits = new BenefitPackage();
     public double GetBenefitCost() => EmpBenefits.ComputePayDeduction();

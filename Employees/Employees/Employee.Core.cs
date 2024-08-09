@@ -1,6 +1,6 @@
 ﻿
 namespace Employees; 
-internal partial class Employee {
+internal abstract partial class Employee {
     private string _empName;
     private int _empAge;
     private int _empId;

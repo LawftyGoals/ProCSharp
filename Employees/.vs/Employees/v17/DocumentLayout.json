@@ -1,38 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\Employees\\",
+  "WorkspaceRootPath": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProCSharp\\Employees\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{70FC39CD-392A-4B2D-858D-BBFFB8ED1FC6}|Employees\\Employees.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\csharp10provisualstudio\\employees\\employees\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70FC39CD-392A-4B2D-858D-BBFFB8ED1FC6}|Employees\\Employees.csproj|solutionrelative:employees\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70FC39CD-392A-4B2D-858D-BBFFB8ED1FC6}|Employees\\Employees.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\csharp10provisualstudio\\employees\\employees\\employee.core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70FC39CD-392A-4B2D-858D-BBFFB8ED1FC6}|Employees\\Employees.csproj|solutionrelative:employees\\employee.core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70FC39CD-392A-4B2D-858D-BBFFB8ED1FC6}|Employees\\Employees.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\csharp10provisualstudio\\employees\\employees\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70FC39CD-392A-4B2D-858D-BBFFB8ED1FC6}|Employees\\Employees.csproj|solutionrelative:employees\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70FC39CD-392A-4B2D-858D-BBFFB8ED1FC6}|Employees\\Employees.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\csharp10provisualstudio\\employees\\employees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{70FC39CD-392A-4B2D-858D-BBFFB8ED1FC6}|Employees\\Employees.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\procsharp\\employees\\employees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70FC39CD-392A-4B2D-858D-BBFFB8ED1FC6}|Employees\\Employees.csproj|solutionrelative:employees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70FC39CD-392A-4B2D-858D-BBFFB8ED1FC6}|Employees\\Employees.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\csharp10provisualstudio\\employees\\employees\\employeepaytypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70FC39CD-392A-4B2D-858D-BBFFB8ED1FC6}|Employees\\Employees.csproj|solutionrelative:employees\\employeepaytypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CCC796CC-6717-474E-8B3F-5C62645E2384}|..\\Shapes\\Shapes\\Shapes.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\procsharp\\shapes\\shapes\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70FC39CD-392A-4B2D-858D-BBFFB8ED1FC6}|Employees\\Employees.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\csharp10provisualstudio\\employees\\employees\\salesperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70FC39CD-392A-4B2D-858D-BBFFB8ED1FC6}|Employees\\Employees.csproj|solutionrelative:employees\\salesperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CCC796CC-6717-474E-8B3F-5C62645E2384}|..\\Shapes\\Shapes\\Shapes.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\procsharp\\shapes\\shapes\\hexagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70FC39CD-392A-4B2D-858D-BBFFB8ED1FC6}|Employees\\Employees.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\csharp10provisualstudio\\employees\\employees\\ptsalesperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70FC39CD-392A-4B2D-858D-BBFFB8ED1FC6}|Employees\\Employees.csproj|solutionrelative:employees\\ptsalesperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70FC39CD-392A-4B2D-858D-BBFFB8ED1FC6}|Employees\\Employees.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\csharp10provisualstudio\\employees\\employees\\benefitpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70FC39CD-392A-4B2D-858D-BBFFB8ED1FC6}|Employees\\Employees.csproj|solutionrelative:employees\\benefitpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70FC39CD-392A-4B2D-858D-BBFFB8ED1FC6}|Employees\\Employees.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\procsharp\\employees\\employees\\employees.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{70FC39CD-392A-4B2D-858D-BBFFB8ED1FC6}|Employees\\Employees.csproj|solutionrelative:employees\\employees.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,110 +24,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Manager.cs",
-              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\Employees\\Employees\\Manager.cs",
-              "RelativeDocumentMoniker": "Employees\\Manager.cs",
-              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\Employees\\Employees\\Manager.cs",
-              "RelativeToolTip": "Employees\\Manager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "DocumentIndex": 1,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProCSharp\\Shapes\\Shapes\\Shape.cs",
+              "RelativeDocumentMoniker": "..\\Shapes\\Shapes\\Shape.cs",
+              "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProCSharp\\Shapes\\Shapes\\Shape.cs",
+              "RelativeToolTip": "..\\Shapes\\Shapes\\Shape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T22:19:21.634Z",
+              "WhenOpened": "2024-08-08T23:41:41.151Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\Employees\\Employees\\Employee.cs",
-              "RelativeDocumentMoniker": "Employees\\Employee.cs",
-              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\Employees\\Employees\\Employee.cs",
-              "RelativeToolTip": "Employees\\Employee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAA2AAAA",
+              "Title": "Hexagon.cs",
+              "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProCSharp\\Shapes\\Shapes\\Hexagon.cs",
+              "RelativeDocumentMoniker": "..\\Shapes\\Shapes\\Hexagon.cs",
+              "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProCSharp\\Shapes\\Shapes\\Hexagon.cs",
+              "RelativeToolTip": "..\\Shapes\\Shapes\\Hexagon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T22:15:01.5Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SalesPerson.cs",
-              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\Employees\\Employees\\SalesPerson.cs",
-              "RelativeDocumentMoniker": "Employees\\SalesPerson.cs",
-              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\Employees\\Employees\\SalesPerson.cs",
-              "RelativeToolTip": "Employees\\SalesPerson.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAwwCAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T22:20:22.564Z",
+              "WhenOpened": "2024-08-08T23:41:24.874Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Employees",
+              "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProCSharp\\Employees\\Employees\\Employees.csproj",
+              "RelativeDocumentMoniker": "Employees\\Employees.csproj",
+              "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProCSharp\\Employees\\Employees\\Employees.csproj",
+              "RelativeToolTip": "Employees\\Employees.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-08T23:38:57.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\Employees\\Employees\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProCSharp\\Employees\\Employees\\Program.cs",
               "RelativeDocumentMoniker": "Employees\\Program.cs",
-              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\Employees\\Employees\\Program.cs",
+              "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProCSharp\\Employees\\Employees\\Program.cs",
               "RelativeToolTip": "Employees\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAWAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADoAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T22:12:53.663Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EmployeePayTypeEnum.cs",
-              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\Employees\\Employees\\EmployeePayTypeEnum.cs",
-              "RelativeDocumentMoniker": "Employees\\EmployeePayTypeEnum.cs",
-              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\Employees\\Employees\\EmployeePayTypeEnum.cs",
-              "RelativeToolTip": "Employees\\EmployeePayTypeEnum.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T22:15:05.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Employee.Core.cs",
-              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\Employees\\Employees\\Employee.Core.cs",
-              "RelativeDocumentMoniker": "Employees\\Employee.Core.cs",
-              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\Employees\\Employees\\Employee.Core.cs",
-              "RelativeToolTip": "Employees\\Employee.Core.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAcwBIAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T22:14:53.757Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PtSalesPerson.cs",
-              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\Employees\\Employees\\PtSalesPerson.cs",
-              "RelativeDocumentMoniker": "Employees\\PtSalesPerson.cs",
-              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\Employees\\Employees\\PtSalesPerson.cs",
-              "RelativeToolTip": "Employees\\PtSalesPerson.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T22:37:18.934Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BenefitPackage.cs",
-              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\Employees\\Employees\\BenefitPackage.cs",
-              "RelativeDocumentMoniker": "Employees\\BenefitPackage.cs",
-              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\Employees\\Employees\\BenefitPackage.cs",
-              "RelativeToolTip": "Employees\\BenefitPackage.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T12:38:01.498Z",
+              "WhenOpened": "2024-08-08T23:36:00.342Z",
               "EditorCaption": ""
             }
           ]

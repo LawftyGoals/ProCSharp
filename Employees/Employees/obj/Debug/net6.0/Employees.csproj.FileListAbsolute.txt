@@ -28,3 +28,10 @@ C:\Users\xg47\Documents\Utdanning\DTE2802\ProCSharp\Employees\Employees\obj\Debu
 C:\Users\xg47\Documents\Utdanning\DTE2802\ProCSharp\Employees\Employees\obj\Debug\net6.0\Employees.pdb
 C:\Users\xg47\Documents\Utdanning\DTE2802\ProCSharp\Employees\Employees\obj\Debug\net6.0\Employees.genruntimeconfig.cache
 C:\Users\xg47\Documents\Utdanning\DTE2802\ProCSharp\Employees\Employees\obj\Debug\net6.0\ref\Employees.dll
+C:\Users\xg47\Documents\Utdanning\DTE2802\ProCSharp\Employees\Employees\bin\Debug\net6.0\Shapes.deps.json
+C:\Users\xg47\Documents\Utdanning\DTE2802\ProCSharp\Employees\Employees\bin\Debug\net6.0\Shapes.runtimeconfig.json
+C:\Users\xg47\Documents\Utdanning\DTE2802\ProCSharp\Employees\Employees\bin\Debug\net6.0\Shapes.exe
+C:\Users\xg47\Documents\Utdanning\DTE2802\ProCSharp\Employees\Employees\bin\Debug\net6.0\Shapes.dll
+C:\Users\xg47\Documents\Utdanning\DTE2802\ProCSharp\Employees\Employees\bin\Debug\net6.0\Shapes.pdb
+C:\Users\xg47\Documents\Utdanning\DTE2802\ProCSharp\Employees\Employees\obj\Debug\net6.0\Employees.csproj.AssemblyReference.cache
+C:\Users\xg47\Documents\Utdanning\DTE2802\ProCSharp\Employees\Employees\obj\Debug\net6.0\Employees.csproj.Up2Date

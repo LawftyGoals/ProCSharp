@@ -33,15 +33,19 @@ franny.DisplayStats();
 
 Console.WriteLine();
 Console.WriteLine("***** Employee Class Hierarchy - the \"as\" keyword 278 *****");
-CastingExample();
+var frank = CastingExample();
+
+GivePromotion((Manager)frank);
+
+GiveSwitchPromotion(new PtSalesPerson("Nom", 27, 1337, 100000, "420-69-1337", 1000));
 
 
 
 
 static void GivePromotion(Employee emp)
-
-//runtime type check
 {
+
+    //runtime type check
     Console.WriteLine($"{emp.Name} was promoted");
     if (emp is SalesPerson s)
     {
@@ -50,18 +54,37 @@ static void GivePromotion(Employee emp)
     else if (emp is Manager m)
     {
         Console.WriteLine("Managemanger {0}\n", m.StockOptions);
-    } else if (emp is not SalesPerson and not Manager)
+    }
+    else if (emp is not SalesPerson and not Manager)
     {
         Console.WriteLine("its no one ok.");
     }
-    if( emp is var _)
+    else if (emp is var _)
     {
         Console.WriteLine("Discarded emp");
     }
 }
 
+static void GiveSwitchPromotion(Employee emp)
+{
+    switch (emp)
+    {
+        case SalesPerson s:
+            Console.WriteLine("{0} stupid number.", s.SalesNumber);
+            break;
+        case Manager m:
+            Console.WriteLine("{0} theft options", m.StockOptions);
+            break;
+        case Employee _:
+            Console.WriteLine("not a group.");
+            break;
+    }
+            Console.WriteLine();
 
-static void CastingExample()
+}
+
+
+static object CastingExample()
 {
     object frank = new Manager("Frank Zappa", 9, 3000, 40000, "1111-111-111", 5);
 
@@ -84,5 +107,7 @@ static void CastingExample()
             h.Draw();
         }
     }
+
+    return frank;
 
 }

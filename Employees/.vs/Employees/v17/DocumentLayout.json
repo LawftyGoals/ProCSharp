@@ -36,8 +36,7 @@
               "RelativeToolTip": "..\\Shapes\\Shapes\\Shape.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T23:41:41.151Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T23:41:41.151Z"
             },
             {
               "$type": "Document",
@@ -49,21 +48,19 @@
               "RelativeToolTip": "..\\Shapes\\Shapes\\Hexagon.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T23:41:24.874Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T23:41:24.874Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Employees",
+              "Title": "Employees.csproj",
               "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProCSharp\\Employees\\Employees\\Employees.csproj",
               "RelativeDocumentMoniker": "Employees\\Employees.csproj",
               "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProCSharp\\Employees\\Employees\\Employees.csproj",
               "RelativeToolTip": "Employees\\Employees.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-08T23:38:57.686Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T23:38:57.686Z"
             },
             {
               "$type": "Document",
@@ -73,7 +70,7 @@
               "RelativeDocumentMoniker": "Employees\\Program.cs",
               "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProCSharp\\Employees\\Employees\\Program.cs",
               "RelativeToolTip": "Employees\\Program.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAADoAAAArAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAADwvzYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-08T23:36:00.342Z",
               "EditorCaption": ""

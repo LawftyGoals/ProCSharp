@@ -1,20 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProCSharp\\Employees\\",
+  "WorkspaceRootPath": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\Employees\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{70FC39CD-392A-4B2D-858D-BBFFB8ED1FC6}|Employees\\Employees.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\procsharp\\employees\\employees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{70FC39CD-392A-4B2D-858D-BBFFB8ED1FC6}|Employees\\Employees.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\csharp10provisualstudio\\employees\\employees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70FC39CD-392A-4B2D-858D-BBFFB8ED1FC6}|Employees\\Employees.csproj|solutionrelative:employees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCC796CC-6717-474E-8B3F-5C62645E2384}|..\\Shapes\\Shapes\\Shapes.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\procsharp\\shapes\\shapes\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCC796CC-6717-474E-8B3F-5C62645E2384}|..\\Shapes\\Shapes\\Shapes.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\procsharp\\shapes\\shapes\\hexagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70FC39CD-392A-4B2D-858D-BBFFB8ED1FC6}|Employees\\Employees.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\procsharp\\employees\\employees\\employees.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{70FC39CD-392A-4B2D-858D-BBFFB8ED1FC6}|Employees\\Employees.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\csharp10provisualstudio\\employees\\employees\\employees.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{70FC39CD-392A-4B2D-858D-BBFFB8ED1FC6}|Employees\\Employees.csproj|solutionrelative:employees\\employees.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProCSharp\\Shapes\\Shapes\\Shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProCSharp\\Shapes\\Shapes\\Hexagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,35 +28,35 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Shape.cs",
               "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProCSharp\\Shapes\\Shapes\\Shape.cs",
-              "RelativeDocumentMoniker": "..\\Shapes\\Shapes\\Shape.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\xg47\\Documents\\Utdanning\\DTE2802\\ProCSharp\\Shapes\\Shapes\\Shape.cs",
               "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProCSharp\\Shapes\\Shapes\\Shape.cs",
-              "RelativeToolTip": "..\\Shapes\\Shapes\\Shape.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\xg47\\Documents\\Utdanning\\DTE2802\\ProCSharp\\Shapes\\Shapes\\Shape.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-08T23:41:41.151Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Hexagon.cs",
               "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProCSharp\\Shapes\\Shapes\\Hexagon.cs",
-              "RelativeDocumentMoniker": "..\\Shapes\\Shapes\\Hexagon.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\xg47\\Documents\\Utdanning\\DTE2802\\ProCSharp\\Shapes\\Shapes\\Hexagon.cs",
               "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProCSharp\\Shapes\\Shapes\\Hexagon.cs",
-              "RelativeToolTip": "..\\Shapes\\Shapes\\Hexagon.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\xg47\\Documents\\Utdanning\\DTE2802\\ProCSharp\\Shapes\\Shapes\\Hexagon.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-08T23:41:24.874Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Employees.csproj",
-              "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProCSharp\\Employees\\Employees\\Employees.csproj",
+              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\Employees\\Employees\\Employees.csproj",
               "RelativeDocumentMoniker": "Employees\\Employees.csproj",
-              "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProCSharp\\Employees\\Employees\\Employees.csproj",
+              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\Employees\\Employees\\Employees.csproj",
               "RelativeToolTip": "Employees\\Employees.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -66,11 +66,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProCSharp\\Employees\\Employees\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\Employees\\Employees\\Program.cs",
               "RelativeDocumentMoniker": "Employees\\Program.cs",
-              "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProCSharp\\Employees\\Employees\\Program.cs",
+              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\Employees\\Employees\\Program.cs",
               "RelativeToolTip": "Employees\\Program.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAADwvzYAAAAFAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAADwvy0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-08T23:36:00.342Z",
               "EditorCaption": ""

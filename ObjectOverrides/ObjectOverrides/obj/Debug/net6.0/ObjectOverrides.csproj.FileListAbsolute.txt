@@ -1,0 +1,15 @@
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\ObjectOverrides\ObjectOverrides\bin\Debug\net6.0\ObjectOverrides.exe
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\ObjectOverrides\ObjectOverrides\bin\Debug\net6.0\ObjectOverrides.deps.json
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\ObjectOverrides\ObjectOverrides\bin\Debug\net6.0\ObjectOverrides.runtimeconfig.json
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\ObjectOverrides\ObjectOverrides\bin\Debug\net6.0\ObjectOverrides.dll
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\ObjectOverrides\ObjectOverrides\bin\Debug\net6.0\ObjectOverrides.pdb
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\ObjectOverrides\ObjectOverrides\obj\Debug\net6.0\ObjectOverrides.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\ObjectOverrides\ObjectOverrides\obj\Debug\net6.0\ObjectOverrides.AssemblyInfoInputs.cache
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\ObjectOverrides\ObjectOverrides\obj\Debug\net6.0\ObjectOverrides.AssemblyInfo.cs
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\ObjectOverrides\ObjectOverrides\obj\Debug\net6.0\ObjectOverrides.csproj.CoreCompileInputs.cache
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\ObjectOverrides\ObjectOverrides\obj\Debug\net6.0\ObjectOverrides.sourcelink.json
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\ObjectOverrides\ObjectOverrides\obj\Debug\net6.0\ObjectOverrides.dll
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\ObjectOverrides\ObjectOverrides\obj\Debug\net6.0\refint\ObjectOverrides.dll
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\ObjectOverrides\ObjectOverrides\obj\Debug\net6.0\ObjectOverrides.pdb
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\ObjectOverrides\ObjectOverrides\obj\Debug\net6.0\ObjectOverrides.genruntimeconfig.cache
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\ObjectOverrides\ObjectOverrides\obj\Debug\net6.0\ref\ObjectOverrides.dll

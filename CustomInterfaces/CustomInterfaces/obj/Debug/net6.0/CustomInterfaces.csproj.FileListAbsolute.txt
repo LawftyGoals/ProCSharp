@@ -1,0 +1,15 @@
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\CustomInterfaces\CustomInterfaces\bin\Debug\net6.0\CustomInterfaces.exe
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\CustomInterfaces\CustomInterfaces\bin\Debug\net6.0\CustomInterfaces.deps.json
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\CustomInterfaces\CustomInterfaces\bin\Debug\net6.0\CustomInterfaces.runtimeconfig.json
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\CustomInterfaces\CustomInterfaces\bin\Debug\net6.0\CustomInterfaces.dll
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\CustomInterfaces\CustomInterfaces\bin\Debug\net6.0\CustomInterfaces.pdb
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\CustomInterfaces\CustomInterfaces\obj\Debug\net6.0\CustomInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\CustomInterfaces\CustomInterfaces\obj\Debug\net6.0\CustomInterfaces.AssemblyInfoInputs.cache
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\CustomInterfaces\CustomInterfaces\obj\Debug\net6.0\CustomInterfaces.AssemblyInfo.cs
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\CustomInterfaces\CustomInterfaces\obj\Debug\net6.0\CustomInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\CustomInterfaces\CustomInterfaces\obj\Debug\net6.0\CustomInterfaces.sourcelink.json
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\CustomInterfaces\CustomInterfaces\obj\Debug\net6.0\CustomInterfaces.dll
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\CustomInterfaces\CustomInterfaces\obj\Debug\net6.0\refint\CustomInterfaces.dll
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\CustomInterfaces\CustomInterfaces\obj\Debug\net6.0\CustomInterfaces.pdb
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\CustomInterfaces\CustomInterfaces\obj\Debug\net6.0\CustomInterfaces.genruntimeconfig.cache
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\CustomInterfaces\CustomInterfaces\obj\Debug\net6.0\ref\CustomInterfaces.dll

@@ -1,0 +1,15 @@
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\SimpleException\SimpleException\bin\Debug\net6.0\SimpleException.exe
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\SimpleException\SimpleException\bin\Debug\net6.0\SimpleException.deps.json
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\SimpleException\SimpleException\bin\Debug\net6.0\SimpleException.runtimeconfig.json
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\SimpleException\SimpleException\bin\Debug\net6.0\SimpleException.dll
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\SimpleException\SimpleException\bin\Debug\net6.0\SimpleException.pdb
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\SimpleException\SimpleException\obj\Debug\net6.0\SimpleException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\SimpleException\SimpleException\obj\Debug\net6.0\SimpleException.AssemblyInfoInputs.cache
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\SimpleException\SimpleException\obj\Debug\net6.0\SimpleException.AssemblyInfo.cs
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\SimpleException\SimpleException\obj\Debug\net6.0\SimpleException.csproj.CoreCompileInputs.cache
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\SimpleException\SimpleException\obj\Debug\net6.0\SimpleException.sourcelink.json
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\SimpleException\SimpleException\obj\Debug\net6.0\SimpleException.dll
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\SimpleException\SimpleException\obj\Debug\net6.0\refint\SimpleException.dll
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\SimpleException\SimpleException\obj\Debug\net6.0\SimpleException.pdb
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\SimpleException\SimpleException\obj\Debug\net6.0\SimpleException.genruntimeconfig.cache
+C:\Users\mymsn\Documents\UIT\DTE2802\CSharp10ProVisualStudio\SimpleException\SimpleException\obj\Debug\net6.0\ref\SimpleException.dll

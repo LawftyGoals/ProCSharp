@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\CustomInterfaces\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8E203E39-337E-4C21-83BB-EBB9AAE280F8}|CustomInterfaces\\CustomInterfaces.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\csharp10provisualstudio\\custominterfaces\\custominterfaces\\hexagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E203E39-337E-4C21-83BB-EBB9AAE280F8}|CustomInterfaces\\CustomInterfaces.csproj|solutionrelative:custominterfaces\\hexagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E203E39-337E-4C21-83BB-EBB9AAE280F8}|CustomInterfaces\\CustomInterfaces.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\csharp10provisualstudio\\custominterfaces\\custominterfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E203E39-337E-4C21-83BB-EBB9AAE280F8}|CustomInterfaces\\CustomInterfaces.csproj|solutionrelative:custominterfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E203E39-337E-4C21-83BB-EBB9AAE280F8}|CustomInterfaces\\CustomInterfaces.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\csharp10provisualstudio\\custominterfaces\\custominterfaces\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E203E39-337E-4C21-83BB-EBB9AAE280F8}|CustomInterfaces\\CustomInterfaces.csproj|solutionrelative:custominterfaces\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E203E39-337E-4C21-83BB-EBB9AAE280F8}|CustomInterfaces\\CustomInterfaces.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\csharp10provisualstudio\\custominterfaces\\custominterfaces\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E203E39-337E-4C21-83BB-EBB9AAE280F8}|CustomInterfaces\\CustomInterfaces.csproj|solutionrelative:custominterfaces\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E203E39-337E-4C21-83BB-EBB9AAE280F8}|CustomInterfaces\\CustomInterfaces.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\csharp10provisualstudio\\custominterfaces\\custominterfaces\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E203E39-337E-4C21-83BB-EBB9AAE280F8}|CustomInterfaces\\CustomInterfaces.csproj|solutionrelative:custominterfaces\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E203E39-337E-4C21-83BB-EBB9AAE280F8}|CustomInterfaces\\CustomInterfaces.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\csharp10provisualstudio\\custominterfaces\\custominterfaces\\iregularpointy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E203E39-337E-4C21-83BB-EBB9AAE280F8}|CustomInterfaces\\CustomInterfaces.csproj|solutionrelative:custominterfaces\\iregularpointy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E203E39-337E-4C21-83BB-EBB9AAE280F8}|CustomInterfaces\\CustomInterfaces.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\csharp10provisualstudio\\custominterfaces\\custominterfaces\\ipointy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E203E39-337E-4C21-83BB-EBB9AAE280F8}|CustomInterfaces\\CustomInterfaces.csproj|solutionrelative:custominterfaces\\ipointy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E203E39-337E-4C21-83BB-EBB9AAE280F8}|CustomInterfaces\\CustomInterfaces.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\csharp10provisualstudio\\custominterfaces\\custominterfaces\\customshapeinterface.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{8E203E39-337E-4C21-83BB-EBB9AAE280F8}|CustomInterfaces\\CustomInterfaces.csproj|solutionrelative:custominterfaces\\customshapeinterface.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E203E39-337E-4C21-83BB-EBB9AAE280F8}|CustomInterfaces\\CustomInterfaces.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\csharp10provisualstudio\\custominterfaces\\custominterfaces\\tridcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E203E39-337E-4C21-83BB-EBB9AAE280F8}|CustomInterfaces\\CustomInterfaces.csproj|solutionrelative:custominterfaces\\tridcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E203E39-337E-4C21-83BB-EBB9AAE280F8}|CustomInterfaces\\CustomInterfaces.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\csharp10provisualstudio\\custominterfaces\\custominterfaces\\ipointy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E203E39-337E-4C21-83BB-EBB9AAE280F8}|CustomInterfaces\\CustomInterfaces.csproj|solutionrelative:custominterfaces\\ipointy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E203E39-337E-4C21-83BB-EBB9AAE280F8}|CustomInterfaces\\CustomInterfaces.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\csharp10provisualstudio\\custominterfaces\\custominterfaces\\hexagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E203E39-337E-4C21-83BB-EBB9AAE280F8}|CustomInterfaces\\CustomInterfaces.csproj|solutionrelative:custominterfaces\\hexagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E203E39-337E-4C21-83BB-EBB9AAE280F8}|CustomInterfaces\\CustomInterfaces.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\csharp10provisualstudio\\custominterfaces\\custominterfaces\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,8 +39,12 @@
       "RelativeMoniker": "D:0:0:{8E203E39-337E-4C21-83BB-EBB9AAE280F8}|CustomInterfaces\\CustomInterfaces.csproj|solutionrelative:custominterfaces\\cloneabletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E203E39-337E-4C21-83BB-EBB9AAE280F8}|CustomInterfaces\\CustomInterfaces.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\csharp10provisualstudio\\custominterfaces\\custominterfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E203E39-337E-4C21-83BB-EBB9AAE280F8}|CustomInterfaces\\CustomInterfaces.csproj|solutionrelative:custominterfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E203E39-337E-4C21-83BB-EBB9AAE280F8}|CustomInterfaces\\CustomInterfaces.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\csharp10provisualstudio\\custominterfaces\\custominterfaces\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E203E39-337E-4C21-83BB-EBB9AAE280F8}|CustomInterfaces\\CustomInterfaces.csproj|solutionrelative:custominterfaces\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E203E39-337E-4C21-83BB-EBB9AAE280F8}|CustomInterfaces\\CustomInterfaces.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\csharp10provisualstudio\\custominterfaces\\custominterfaces\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E203E39-337E-4C21-83BB-EBB9AAE280F8}|CustomInterfaces\\CustomInterfaces.csproj|solutionrelative:custominterfaces\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E203E39-337E-4C21-83BB-EBB9AAE280F8}|CustomInterfaces\\CustomInterfaces.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\csharp10provisualstudio\\custominterfaces\\custominterfaces\\recordtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,19 +63,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Triangle.cs",
-              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\CustomInterfaces\\CustomInterfaces\\Triangle.cs",
-              "RelativeDocumentMoniker": "CustomInterfaces\\Triangle.cs",
-              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\CustomInterfaces\\CustomInterfaces\\Triangle.cs",
-              "RelativeToolTip": "CustomInterfaces\\Triangle.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAcAAAA",
+              "Title": "Square.cs",
+              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\CustomInterfaces\\CustomInterfaces\\Square.cs",
+              "RelativeDocumentMoniker": "CustomInterfaces\\Square.cs",
+              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\CustomInterfaces\\CustomInterfaces\\Square.cs",
+              "RelativeToolTip": "CustomInterfaces\\Square.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T13:11:08.958Z",
+              "WhenOpened": "2024-08-25T19:22:32.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRegularPointy.cs",
+              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\CustomInterfaces\\CustomInterfaces\\IRegularPointy.cs",
+              "RelativeDocumentMoniker": "CustomInterfaces\\IRegularPointy.cs",
+              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\CustomInterfaces\\CustomInterfaces\\IRegularPointy.cs",
+              "RelativeToolTip": "CustomInterfaces\\IRegularPointy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T19:21:08.351Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "CustomShapeInterface.cd",
+              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\CustomInterfaces\\CustomInterfaces\\CustomShapeInterface.cd",
+              "RelativeDocumentMoniker": "CustomInterfaces\\CustomShapeInterface.cd",
+              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\CustomInterfaces\\CustomInterfaces\\CustomShapeInterface.cd",
+              "RelativeToolTip": "CustomInterfaces\\CustomShapeInterface.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-08-25T18:58:55.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "IPointy.cs",
               "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\CustomInterfaces\\CustomInterfaces\\IPointy.cs",
               "RelativeDocumentMoniker": "CustomInterfaces\\IPointy.cs",
@@ -76,46 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TriDCircle.cs",
-              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\CustomInterfaces\\CustomInterfaces\\TriDCircle.cs",
-              "RelativeDocumentMoniker": "CustomInterfaces\\TriDCircle.cs",
-              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\CustomInterfaces\\CustomInterfaces\\TriDCircle.cs",
-              "RelativeToolTip": "CustomInterfaces\\TriDCircle.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T13:06:17.978Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Shape.cs",
-              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\CustomInterfaces\\CustomInterfaces\\Shape.cs",
-              "RelativeDocumentMoniker": "CustomInterfaces\\Shape.cs",
-              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\CustomInterfaces\\CustomInterfaces\\Shape.cs",
-              "RelativeToolTip": "CustomInterfaces\\Shape.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T13:06:15.65Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RecordTest.cs",
-              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\CustomInterfaces\\CustomInterfaces\\RecordTest.cs",
-              "RelativeDocumentMoniker": "CustomInterfaces\\RecordTest.cs",
-              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\CustomInterfaces\\CustomInterfaces\\RecordTest.cs",
-              "RelativeToolTip": "CustomInterfaces\\RecordTest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T13:06:12.399Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Hexagon.cs",
               "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\CustomInterfaces\\CustomInterfaces\\Hexagon.cs",
               "RelativeDocumentMoniker": "CustomInterfaces\\Hexagon.cs",
@@ -128,7 +126,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\CustomInterfaces\\CustomInterfaces\\Program.cs",
+              "RelativeDocumentMoniker": "CustomInterfaces\\Program.cs",
+              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\CustomInterfaces\\CustomInterfaces\\Program.cs",
+              "RelativeToolTip": "CustomInterfaces\\Program.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAQwCUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T12:54:54.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Circle.cs",
               "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\CustomInterfaces\\CustomInterfaces\\Circle.cs",
               "RelativeDocumentMoniker": "CustomInterfaces\\Circle.cs",
@@ -141,7 +152,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\CustomInterfaces\\CustomInterfaces\\Triangle.cs",
+              "RelativeDocumentMoniker": "CustomInterfaces\\Triangle.cs",
+              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\CustomInterfaces\\CustomInterfaces\\Triangle.cs",
+              "RelativeToolTip": "CustomInterfaces\\Triangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T13:11:08.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TriDCircle.cs",
+              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\CustomInterfaces\\CustomInterfaces\\TriDCircle.cs",
+              "RelativeDocumentMoniker": "CustomInterfaces\\TriDCircle.cs",
+              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\CustomInterfaces\\CustomInterfaces\\TriDCircle.cs",
+              "RelativeToolTip": "CustomInterfaces\\TriDCircle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T13:06:17.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RecordTest.cs",
+              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\CustomInterfaces\\CustomInterfaces\\RecordTest.cs",
+              "RelativeDocumentMoniker": "CustomInterfaces\\RecordTest.cs",
+              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\CustomInterfaces\\CustomInterfaces\\RecordTest.cs",
+              "RelativeToolTip": "CustomInterfaces\\RecordTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T13:06:12.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "CloneableType.cs",
               "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\CustomInterfaces\\CustomInterfaces\\CloneableType.cs",
               "RelativeDocumentMoniker": "CustomInterfaces\\CloneableType.cs",
@@ -154,15 +204,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\CustomInterfaces\\CustomInterfaces\\Program.cs",
-              "RelativeDocumentMoniker": "CustomInterfaces\\Program.cs",
-              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\CustomInterfaces\\CustomInterfaces\\Program.cs",
-              "RelativeToolTip": "CustomInterfaces\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABEAAAA",
+              "DocumentIndex": 10,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\CustomInterfaces\\CustomInterfaces\\Shape.cs",
+              "RelativeDocumentMoniker": "CustomInterfaces\\Shape.cs",
+              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\CSharp10ProVisualStudio\\CustomInterfaces\\CustomInterfaces\\Shape.cs",
+              "RelativeToolTip": "CustomInterfaces\\Shape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T12:54:54.483Z",
+              "WhenOpened": "2024-08-16T13:06:15.65Z",
               "EditorCaption": ""
             }
           ]
